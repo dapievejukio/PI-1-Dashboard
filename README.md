@@ -22,7 +22,7 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 - **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (responsável inicial: Júlio).
 
 ## Base de dados (Kaggle)
-- **Dataset:** A definir (responsável: @JhonDiass)
+- **Dataset:** A definir 
 - **Link:** A definir
 - **Contexto/origem (resumo):** A definir (2–4 linhas)
 - **Justificativa da escolha:** A definir (1–2 linhas)
