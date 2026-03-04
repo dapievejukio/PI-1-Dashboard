@@ -9,8 +9,8 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 1. **Júlio (@dapievejukio)** — GitHub/Repo (estrutura, permissões, organização do repositório e padronização)
 2. **Jhon Diass (@JhonDiass)** — Base do Kaggle (seleção do dataset, contexto/origem e objetivo)
 3. **Caio Luna (@caioluna)** — Planejamento do ETL (extração, transformação com Pandas e carga)
-4. **Integrante 4 (a confirmar)** — Métricas e perguntas do dashboard (KPIs e análises)
-5. **Integrante 5 (a confirmar)** — Protótipo/ideia do dashboard (layout, gráficos e filtros)
+4. **Danubio Souza (@Danubio229)** — Métricas e perguntas do dashboard (KPIs e análises)
+5. **Hugo Miguel(@hugomfrosa)** — Protótipo/ideia do dashboard (layout, gráficos e filtros)
 6. **Integrante 6 (a confirmar)** — Revisão do README + cronograma (consolidação final)
 
 ## Base de dados (Kaggle)
