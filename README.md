@@ -3,15 +3,23 @@
 ## Tema do projeto
 Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visualização em Streamlit.
 
-## Integrantes e responsabilidades
-> Atualizar os nomes/@ quando todos confirmarem.
+## Integrantes
+- Júlio (@dapievejukio)
+- Jhon Diass (@JhonDiass)
+- Caio Luna (@caioluna)
+- Danubio Souza (@Danubio229)
+- Hugo Miguel (@hugomfrosa)
+- Integrante 6 (a confirmar)
 
-1. **Júlio (@dapievejukio)** — GitHub/Repo (estrutura, permissões, organização do repositório e padronização)
-2. **Jhon Diass (@JhonDiass)** — Base do Kaggle (seleção do dataset, contexto/origem e objetivo)
-3. **Caio Luna (@caioluna)** — Planejamento do ETL (extração, transformação com Pandas e carga)
-4. **Danubio Souza (@Danubio229)** — Métricas e perguntas do dashboard (KPIs e análises)
-5. **Hugo Miguel(@hugomfrosa)** — Protótipo/ideia do dashboard (layout, gráficos e filtros)
-6. **Integrante 6 (a confirmar)** — Revisão do README + cronograma (consolidação final)
+## Distribuição de tarefas (a escolher pelo grupo)
+As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
+
+- **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa.
+- **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros.
+- **Função C — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite).
+- **Função D — Ideia do dashboard:** layout (cards + gráficos + tabela) e visualizações.
+- **Função E — Revisão final README + cronograma:** consolidar tudo e revisar coerência.
+- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (responsável inicial: Júlio).
 
 ## Base de dados (Kaggle)
 - **Dataset:** A definir (responsável: @JhonDiass)
