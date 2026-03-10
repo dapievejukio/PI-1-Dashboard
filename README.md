@@ -14,30 +14,21 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 ## Distribuição de tarefas (a escolher pelo grupo)
 As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 
-- **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa. (Responsável: Jhonatan)
+- **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa. (Responsável: Jhon Diass / @JhonDiass)
 - **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros.
 - **Função C — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite).
 - **Função D — Ideia do dashboard:** layout (cards + gráficos + tabela) e visualizações.
 - **Função E — Revisão final README + cronograma:** consolidar tudo e revisar coerência.
-- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (responsável inicial: Júlio).
+- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (responsável inicial: Júlio / @dapievejukio
 
 ## Base de dados (Kaggle)
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio 
 - **Link:** https://www.kaggle.com/datasets/rafatrindade/feminicidio-br
 - **Contexto/origem (resumo):** O objetivo desta coleta de dados é oferecer uma visão detalhada dos casos de feminicídios no Brasil, sendo possível analisar o perfil das vítimas, contexto e local para ajudar no combate contra este crime.
-- **Justificativa da escolha:** Devido o mês de Março ser marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
-
-### Critérios para escolher o dataset (orientação do grupo)
-Para garantir um dashboard “forte” e um ETL realista, o dataset deve ter:
-- volume de dados suficiente (não apenas poucas linhas);
-- ao menos 1 dimensão temporal (data/mês/ano) **ou** algum eixo de comparação equivalente;
-- pelo menos 2 campos categóricos (ex.: categoria, região, produto, tipo);
-- campos numéricos para KPIs (ex.: vendas, preço, quantidade, nota, custo).
+- **Justificativa da escolha:** Como Março ser marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
 
 ## Objetivo da análise
 Construir um dashboard que permita **visualizar e explorar indicadores principais** do dataset escolhido (Kaggle), identificando padrões, comparações e tendências relevantes (ex.: evolução ao longo do tempo, distribuição por categorias, ranking de itens e variações por grupos), apoiando uma leitura rápida por meio de **KPIs, gráficos e filtros**.
-
-> O objetivo será ajustado quando o dataset for definido, mantendo a coerência com os indicadores possíveis.
 
 ## Planejamento do ETL (Pandas + carga)
 O pipeline seguirá as etapas: **extração → transformação → carga**, com foco em gerar uma base limpa e estruturada para o dashboard.
@@ -64,8 +55,8 @@ Tratamentos que podem ser aplicados conforme o dataset:
 O dashboard será construído no Streamlit para permitir visualização rápida e exploração dos dados.
 
 ### KPIs/Indicadores (exemplos — serão confirmados após escolher o dataset)
-- total (ex.: total de vendas/ocorrências/receita)
-- média (ex.: ticket médio, nota média, valor médio)
+- total (ex.: casos, perfil, local, período etc)
+- média (ex.: casos, perfil, local, período etc)
 - contagem (ex.: número de registros, número de categorias)
 - ranking Top 5/Top 10 (ex.: itens/regiões/categorias com maiores valores)
 
