@@ -9,7 +9,8 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 - Caio Luna (@caioluna)
 - Danubio Souza (@Danubio229)
 - Hugo Miguel (@hugomfrosa)
-- Integrante 6 (a confirmar)
+- Brunna Stival (@brunnastival)
+- Franciane Giselle (@itgiselle)
 
 ## Distribuição de tarefas (a escolher pelo grupo)
 As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
