@@ -25,7 +25,7 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio 
 - **Link:** https://www.kaggle.com/datasets/rafatrindade/feminicidio-br
 - **Contexto/origem (resumo):** O objetivo desta coleta de dados é oferecer uma visão detalhada dos casos de feminicídios no Brasil, sendo possível analisar o perfil das vítimas, contexto e local para ajudar no combate contra este crime.
-- **Justificativa da escolha:** Como Março ser marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
+- **Justificativa da escolha:** Como Março é marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
 
 ## Objetivo da análise
 Construir um dashboard que permita **visualizar e explorar indicadores principais** do dataset escolhido (Kaggle), identificando padrões, comparações e tendências relevantes (ex.: evolução ao longo do tempo, distribuição por categorias, ranking de itens e variações por grupos), apoiando uma leitura rápida por meio de **KPIs, gráficos e filtros**.
@@ -54,23 +54,25 @@ Tratamentos que podem ser aplicados conforme o dataset:
 ## Ideia inicial do dashboard (Streamlit)
 O dashboard será construído no Streamlit para permitir visualização rápida e exploração dos dados.
 
-### KPIs/Indicadores (exemplos — serão confirmados após escolher o dataset)
-- total (ex.: casos, perfil, local, período etc)
-- média (ex.: casos, perfil, local, período etc)
-- contagem (ex.: número de registros, número de categorias)
-- ranking Top 5/Top 10 (ex.: itens/regiões/categorias com maiores valores)
+### KPIs/Indicadores 
+	•	Total de registros (casos)
+	•	Casos por período (ano/mês, se existir no dataset)
+	•	Casos por UF/município (se existir)
+	•	Distribuição por faixa etária (se existir)
+	•	Distribuição por local do crime (se existir)
+	•	Top 5 categorias mais frequentes (ex.: meio, contexto, relação — conforme colunas do dataset)
 
-### Visualizações previstas (exemplos)
-- gráfico de linha (evolução por tempo, se houver data/período);
-- gráfico de barras (comparação por categoria/região/produto);
-- tabela (Top N e detalhes filtrados);
-- distribuição (histograma/boxplot) se fizer sentido para a variável principal.
+### Visualizações previstas 
+	•	Linha: evolução de casos por período (se houver data/ano/mês)
+	•	Barras: comparação por UF/município e/ou local do crime
+	•	Pizza/Barras: distribuição por faixa etária / categorias relevantes
+	•	Tabela: Top N (UFs/municípios/categorias) com contagem
 
 ### Filtros previstos (dependem do dataset)
-- período (data/mês/ano) ou grupos equivalentes;
-- categoria/tipo;
-- região/local;
-- outros filtros relevantes (ex.: faixa de preço, status, segmento).
+	•	Período (ano/mês) se aplicável
+	•	UF/município se aplicável
+	•	Faixa etária se aplicável
+	•	Categoria/Tipo / conforme colunas
 
 ## Estrutura do repositório
 - `app/` — aplicação Streamlit (dashboard)
