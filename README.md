@@ -16,11 +16,11 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 
 - **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa. (Responsável: Jhon Diass / @JhonDiass)
-- **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros.
-- **Função C Franciane Giselle (@itgiselle) — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite).
+- **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros. (Responsável: Caio Luna @caioluna)
+- **Função C — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite). (responsável: Franciane Giselle @itgiselle)
 - **Função D — Ideia do dashboard:** layout (cards + gráficos + tabela) e visualizações.
 - **Função E — Revisão final README + cronograma:** consolidar tudo e revisar coerência.
-- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (responsável inicial: Júlio / @dapievejukio
+- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (Responsável inicial: Júlio / @dapievejukio
 
 ## Base de dados (Kaggle)
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio 
