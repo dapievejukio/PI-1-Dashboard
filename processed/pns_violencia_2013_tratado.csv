@@ -1,0 +1,1043 @@
+Unidade da Federação,Área,Idade,Cor ou raça,Tipo de violência,Meio de violência,Local da violência,Autor da violência,Vitima buscou ajuda,Vitima recebeu atendimento,Vitima registrou ocorrência,Tipo de serviço de saúde procurado,Recebeu acompanhamento psicológico,Recebeu atendimento social,Recebeu acompanhamento legal,Frequência da violência,Tipo de violência sofrida,Meio utilizado na violência,Local da agressão,Parentesco com agressor,Vitima denunciou,Agressor foi responsabilizado,Recebeu orientação legal,Local de atendimento médico,Recebeu atendimento médico imediato,Recebeu atendimento posterior,Faixa Etária
+0,Rondônia,Urbano,39,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1,Rondônia,Urbano,50,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+2,Rondônia,Urbano,41,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+3,Rondônia,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+4,Rondônia,Urbano,41,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+5,Rondônia,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Trabalho,Outra pessoa conhecida,Não,Não,Não,,,,18-29
+6,Rondônia,Urbano,21,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+7,Rondônia,Urbano,56,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Com objeto pérfuro-cortante,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,50-59
+8,Rondônia,Urbano,23,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+9,Rondônia,Urbano,30,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Trabalho,Amigos(as)/colegas,Não,Não,Sim,Outro,Não,Não,30-39
+10,Rondônia,Urbano,27,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+11,Rondônia,Urbano,44,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+12,Rondônia,Urbano,22,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+13,Rondônia,Urbano,27,Branca,Física,Outro,Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+14,Rondônia,Urbano,49,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+15,Rondônia,Urbano,23,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+16,Rondônia,Urbano,33,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+17,Rondônia,Urbano,42,Branca,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+18,Rondônia,Urbano,18,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+19,Rondônia,Urbano,71,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+20,Rondônia,Urbano,34,Branca,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+21,Rondônia,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+22,Rondônia,Urbano,60,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+23,Rondônia,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+24,Rondônia,Urbano,57,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+25,Rondônia,Urbano,22,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+26,Rondônia,Urbano,72,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+27,Rondônia,Rural,43,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+28,Acre,Urbano,23,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+29,Acre,Urbano,29,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+30,Acre,Urbano,55,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Agente legal público,Não,Sim,Não,,,,Não,,,,,,,,,,,,50-59
+31,Acre,Urbano,45,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+32,Acre,Urbano,19,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+33,Acre,Urbano,20,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+34,Acre,Urbano,38,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+35,Acre,Urbano,21,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+36,Acre,Urbano,29,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+37,Acre,Urbano,58,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+38,Acre,Urbano,44,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+39,Acre,Urbano,59,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+40,Acre,Urbano,27,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+41,Acre,Urbano,21,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Bar ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+42,Acre,Urbano,70,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+43,Acre,Urbano,44,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+44,Acre,Urbano,26,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,No local da violência,Não,Sim,Não,,,,,,,,,,,,18-29
+45,Acre,Urbano,65,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+46,Acre,Urbano,47,Branca,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+47,Acre,Urbano,29,Indígena,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Sim,Sim,Não,,,,Sim,Uma vez,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Sim,Não,,,,18-29
+48,Acre,Urbano,32,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+49,Acre,Urbano,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,18-29
+50,Acre,Rural,46,Indígena,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+51,Amazonas,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+52,Amazonas,Urbano,48,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+53,Amazonas,Urbano,21,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+54,Amazonas,Urbano,25,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+55,Amazonas,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+56,Amazonas,Urbano,36,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+57,Amazonas,Urbano,18,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Não,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Sim,Uma vez,Física,Por meio de palavras ofensivas,Via pública,Amigos(as)/colegas,Não,Não,Não,,,,18-29
+58,Amazonas,Urbano,23,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,No local da violência,Não,Não,Não,,,,,,,,,,,,18-29
+59,Amazonas,Urbano,28,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+60,Amazonas,Urbano,30,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+61,Amazonas,Urbano,52,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+62,Amazonas,Urbano,23,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+63,Amazonas,Urbano,64,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+64,Amazonas,Urbano,44,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+65,Amazonas,Urbano,67,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+66,Amazonas,Urbano,19,Parda,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+67,Amazonas,Urbano,44,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+68,Amazonas,Urbano,19,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,Não,,,,,,,,,,,,18-29
+69,Amazonas,Urbano,42,Parda,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+70,Amazonas,Urbano,48,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,Não,,,,,,,,,,,,40-49
+71,Amazonas,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+72,Amazonas,Urbano,34,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+73,Amazonas,Urbano,42,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+74,Amazonas,Urbano,21,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+75,Amazonas,Urbano,48,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+76,Amazonas,Urbano,32,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+77,Amazonas,Urbano,29,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+78,Amazonas,Urbano,24,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+79,Amazonas,Urbano,33,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+80,Amazonas,Urbano,69,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+81,Amazonas,Urbano,63,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+82,Amazonas,Urbano,31,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+83,Amazonas,Urbano,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+84,Amazonas,Urbano,45,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+85,Amazonas,Urbano,41,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+86,Amazonas,Urbano,28,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+87,Amazonas,Urbano,18,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+88,Amazonas,Urbano,41,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+89,Amazonas,Urbano,40,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+90,Amazonas,Urbano,31,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+91,Amazonas,Urbano,20,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+92,Amazonas,Urbano,20,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+93,Amazonas,Urbano,28,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+94,Amazonas,Urbano,32,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+95,Amazonas,Rural,28,Preta,Outro,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+96,Amazonas,Rural,20,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+97,Amazonas,Rural,21,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+98,Amazonas,Urbano,18,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+99,Amazonas,Urbano,18,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+100,Amazonas,Urbano,39,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,Outro,Sim,Não,Não,,,,Sim,Pelo menos uma vez por mês,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,30-39
+101,Amazonas,Rural,19,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Sim,De sete a menos de 12 vezes,Física,Com força corporal,Residência,Filho(a),Não,Não,Não,,,,18-29
+102,Amazonas,Urbano,21,Amarela,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Bar ou similar,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+103,Roraima,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+104,Roraima,Urbano,18,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+105,Roraima,Urbano,36,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+106,Roraima,Urbano,23,Parda,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Pelo menos uma vez por mês,Psicológica,Com força corporal,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Sim,Hospital público/ambulatório,Sim,Não,18-29
+107,Roraima,Urbano,41,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+108,Roraima,Urbano,35,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+109,Roraima,Urbano,33,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+110,Roraima,Urbano,52,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+111,Roraima,Urbano,43,Parda,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,De três a seis vezes,Física,Com força corporal,Residência,Outro parente,Sim,Não,Não,,,,40-49
+112,Roraima,Urbano,38,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+113,Roraima,Urbano,34,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+114,Roraima,Urbano,62,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+115,Roraima,Urbano,60,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,60+
+116,Roraima,Urbano,35,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+117,Roraima,Urbano,18,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+118,Roraima,Urbano,22,Indígena,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+119,Roraima,Urbano,53,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+120,Roraima,Urbano,40,Indígena,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,40-49
+121,Roraima,Urbano,38,Indígena,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+122,Roraima,Urbano,34,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+123,Roraima,Urbano,37,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+124,Roraima,Urbano,29,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+125,Roraima,Urbano,46,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+126,Roraima,Urbano,39,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+127,Roraima,Urbano,19,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+128,Roraima,Urbano,34,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,No local da violência,Não,Sim,Não,,,,,,,,,,,,30-39
+129,Roraima,Urbano,46,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+130,Roraima,Rural,53,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+131,Roraima,Urbano,35,Indígena,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+132,Roraima,Rural,54,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+133,Roraima,Rural,35,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+134,Roraima,Rural,22,Indígena,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+135,Roraima,Rural,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+136,Roraima,Rural,46,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Residência,Filho(a),Não,Não,Não,,,,40-49
+137,Roraima,Rural,24,Preta,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Bar ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+138,Pará,Urbano,63,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+139,Pará,Urbano,18,Parda,Sexual,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+140,Pará,Urbano,19,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+141,Pará,Urbano,19,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+142,Pará,Urbano,30,Preta,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Irmão(ã),Não,Não,Não,,,,30-39
+143,Pará,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+144,Pará,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+145,Pará,Urbano,19,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+146,Pará,Urbano,19,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+147,Pará,Urbano,28,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Sim,Outro,Não,Não,Não,,,,,,,,,,,,18-29
+148,Pará,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+149,Pará,Urbano,25,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+150,Pará,Urbano,42,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+151,Pará,Urbano,31,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+152,Pará,Urbano,23,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+153,Pará,Urbano,28,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Outra,Com força corporal,Residência,Irmão(ã),Não,Sim,Não,,,,18-29
+154,Pará,Urbano,35,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+155,Pará,Urbano,28,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+156,Pará,Urbano,34,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+157,Pará,Urbano,23,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+158,Pará,Urbano,54,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+159,Pará,Urbano,22,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+160,Pará,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+161,Pará,Urbano,42,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+162,Pará,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+163,Pará,Urbano,42,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+164,Pará,Urbano,44,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+165,Pará,Urbano,36,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+166,Pará,Urbano,35,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+167,Pará,Urbano,29,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+168,Pará,Urbano,29,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+169,Pará,Urbano,50,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+170,Pará,Urbano,24,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,Não,,,,,,,,,,,,18-29
+171,Pará,Urbano,39,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+172,Pará,Urbano,48,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+173,Pará,Urbano,32,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+174,Pará,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+175,Pará,Urbano,25,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Sim,Não,,,,18-29
+176,Pará,Urbano,41,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+177,Pará,Urbano,18,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+178,Pará,Urbano,39,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+179,Pará,Urbano,40,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+180,Pará,Urbano,27,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+181,Pará,Urbano,42,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+182,Pará,Urbano,30,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+183,Pará,Urbano,26,Parda,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Física,Por meio de palavras ofensivas,Bar ou similar,Outro parente,Não,Sim,Não,,,,18-29
+184,Pará,Urbano,22,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+185,Pará,Urbano,23,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+186,Pará,Urbano,26,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+187,Pará,Urbano,31,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+188,Pará,Rural,25,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+189,Pará,Rural,41,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+190,Pará,Urbano,26,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+191,Pará,Urbano,40,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+192,Pará,Urbano,38,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+193,Pará,Rural,35,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+194,Pará,Rural,57,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+195,Amapá,Urbano,18,Preta,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+196,Amapá,Urbano,19,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,18-29
+197,Amapá,Urbano,36,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+198,Amapá,Urbano,39,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,No local da violência,Não,Sim,Sim,De três a seis vezes,Física,Com objeto pérfuro-cortante,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,30-39
+199,Amapá,Urbano,25,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+200,Amapá,Urbano,18,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+201,Amapá,Urbano,36,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+202,Amapá,Urbano,42,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+203,Amapá,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+204,Amapá,Urbano,25,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+205,Amapá,Urbano,53,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+206,Amapá,Urbano,28,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+207,Amapá,Urbano,66,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Agente legal público,Não,Não,Não,,,,Sim,Duas vezes,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,60+
+208,Amapá,Urbano,63,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Banco/Caixa eletrônico/Lotérica,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+209,Amapá,Urbano,22,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+210,Amapá,Urbano,25,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+211,Amapá,Urbano,30,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Banco/Caixa eletrônico/Lotérica,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+212,Amapá,Urbano,19,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+213,Amapá,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+214,Amapá,Urbano,24,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+215,Amapá,Urbano,27,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+216,Amapá,Urbano,26,Parda,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,UPA,Não,Não,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,18-29
+217,Amapá,Urbano,34,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+218,Amapá,Urbano,19,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+219,Amapá,Urbano,18,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+220,Amapá,Urbano,39,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+221,Amapá,Urbano,30,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+222,Amapá,Urbano,22,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+223,Amapá,Urbano,35,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+224,Amapá,Urbano,19,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+225,Amapá,Rural,33,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+226,Amapá,Urbano,34,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+227,Amapá,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+228,Amapá,Urbano,22,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+229,Amapá,Urbano,40,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+230,Amapá,Urbano,20,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+231,Amapá,Urbano,39,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+232,Amapá,Urbano,41,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+233,Amapá,Rural,36,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+234,Tocantins,Urbano,52,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+235,Tocantins,Urbano,38,Parda,Sexual,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+236,Tocantins,Urbano,30,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,30-39
+237,Tocantins,Urbano,28,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+238,Tocantins,Urbano,37,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+239,Tocantins,Urbano,49,Amarela,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+240,Tocantins,Urbano,23,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+241,Tocantins,Urbano,55,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+242,Tocantins,Urbano,38,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+243,Tocantins,Urbano,34,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+244,Tocantins,Urbano,46,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Via pública,Outra pessoa conhecida,Não,Não,Não,,,,40-49
+245,Tocantins,Urbano,52,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,50-59
+246,Tocantins,Urbano,29,Parda,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+247,Tocantins,Urbano,36,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+248,Tocantins,Urbano,31,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+249,Tocantins,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+250,Tocantins,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+251,Tocantins,Urbano,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+252,Tocantins,Urbano,30,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+253,Tocantins,Rural,40,Parda,Sexual,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+254,Tocantins,Urbano,53,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,50-59
+255,Tocantins,Urbano,57,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+256,Tocantins,Urbano,43,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+257,Tocantins,Urbano,18,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Bar ou similar,Outro,Não,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Bar ou similar,Outro parente,Não,Não,Não,,,,18-29
+258,Tocantins,Rural,37,Parda,Outro,Outro,Residência,Outro,Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+259,Maranhão,Urbano,26,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+260,Maranhão,Urbano,43,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,40-49
+261,Maranhão,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+262,Maranhão,Urbano,49,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+263,Maranhão,Urbano,51,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,50-59
+264,Maranhão,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+265,Maranhão,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+266,Maranhão,Urbano,19,Parda,Psicológica,Outro,Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+267,Maranhão,Urbano,37,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,30-39
+268,Maranhão,Urbano,42,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,UPA,Não,Não,Não,,,,,,,,,,,,40-49
+269,Maranhão,Urbano,35,Preta,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+270,Maranhão,Urbano,22,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+271,Maranhão,Urbano,28,Indígena,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+272,Maranhão,Urbano,50,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+273,Maranhão,Urbano,22,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+274,Maranhão,Urbano,26,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+275,Maranhão,Urbano,21,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+276,Maranhão,Urbano,25,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+277,Maranhão,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+278,Maranhão,Urbano,50,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+279,Maranhão,Urbano,24,Parda,Sexual,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+280,Maranhão,Urbano,33,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+281,Maranhão,Urbano,42,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+282,Maranhão,Urbano,26,Parda,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+283,Maranhão,Urbano,57,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+284,Maranhão,Urbano,32,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Sim,Duas vezes,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,30-39
+285,Maranhão,Urbano,18,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+286,Maranhão,Urbano,31,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+287,Maranhão,Urbano,26,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+288,Maranhão,Rural,37,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+289,Maranhão,Rural,25,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+290,Maranhão,Urbano,30,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+291,Maranhão,Urbano,32,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+292,Maranhão,Urbano,65,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+293,Maranhão,Rural,36,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+294,Maranhão,Rural,20,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+295,Maranhão,Rural,23,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+296,Maranhão,Rural,32,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+297,Maranhão,Rural,33,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,Outro,Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+298,Maranhão,Rural,27,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+299,Maranhão,Urbano,47,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+300,Maranhão,Urbano,60,Preta,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+301,Maranhão,Rural,31,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+302,Maranhão,Rural,26,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+303,Maranhão,Rural,20,Preta,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+304,Piauí,Urbano,45,Amarela,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+305,Piauí,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+306,Piauí,Urbano,46,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+307,Piauí,Urbano,27,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+308,Piauí,Urbano,57,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+309,Piauí,Urbano,43,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Sim,Não,Não,,,,,,,,,,,,40-49
+310,Piauí,Urbano,55,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+311,Piauí,Urbano,19,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+312,Piauí,Urbano,25,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+313,Piauí,Urbano,33,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+314,Piauí,Urbano,18,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+315,Piauí,Urbano,51,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+316,Piauí,Urbano,64,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+317,Piauí,Urbano,69,Parda,Psicológica,Outro,Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+318,Piauí,Urbano,18,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,18-29
+319,Piauí,Urbano,40,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+320,Piauí,Urbano,53,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+321,Piauí,Urbano,29,Preta,Psicológica,Outro,Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+322,Piauí,Urbano,42,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+323,Piauí,Urbano,35,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+324,Piauí,Urbano,22,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+325,Piauí,Urbano,51,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+326,Piauí,Urbano,28,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+327,Piauí,Urbano,59,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+328,Piauí,Urbano,24,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+329,Piauí,Urbano,53,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+330,Piauí,Rural,22,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Sim,Pelo menos uma vez por semana,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,18-29
+331,Piauí,Urbano,42,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+332,Piauí,Urbano,39,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Agente legal público,Não,Não,Não,,,,Sim,De sete a menos de 12 vezes,Física,Com força corporal,Residência,Outro parente,Não,Sim,Não,,,,30-39
+333,Piauí,Rural,24,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Outra pessoa conhecida,Não,Não,Não,,,,18-29
+334,Ceará,Urbano,46,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,Outro,Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Sim,Não,,,,,,,,,,,,40-49
+335,Ceará,Urbano,73,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+336,Ceará,Urbano,33,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+337,Ceará,Urbano,28,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+338,Ceará,Urbano,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+339,Ceará,Urbano,55,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+340,Ceará,Urbano,72,Parda,Outro,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+341,Ceará,Urbano,66,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+342,Ceará,Urbano,63,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+343,Ceará,Urbano,45,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+344,Ceará,Urbano,65,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Sim,Sim,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,60+
+345,Ceará,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+346,Ceará,Urbano,44,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Outra pessoa conhecida,Não,Não,Não,,,,40-49
+347,Ceará,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+348,Ceará,Urbano,18,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,18-29
+349,Ceará,Urbano,25,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+350,Ceará,Urbano,50,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+351,Ceará,Urbano,39,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+352,Ceará,Urbano,52,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+353,Ceará,Urbano,23,Amarela,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+354,Ceará,Urbano,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+355,Ceará,Urbano,22,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+356,Ceará,Urbano,42,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+357,Ceará,Urbano,27,Branca,Psicológica,Outro,Trabalho,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+358,Ceará,Urbano,50,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+359,Ceará,Urbano,23,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+360,Ceará,Urbano,30,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+361,Ceará,Urbano,28,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+362,Ceará,Urbano,42,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+363,Ceará,Urbano,53,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+364,Ceará,Urbano,42,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+365,Ceará,Urbano,32,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+366,Ceará,Urbano,33,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+367,Ceará,Urbano,40,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,Sim,Uma vez,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,40-49
+368,Ceará,Urbano,42,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+369,Ceará,Urbano,19,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+370,Ceará,Urbano,24,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+371,Ceará,Urbano,32,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Residência,Irmão(ã),Não,Não,Não,,,,30-39
+372,Ceará,Urbano,42,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,40-49
+373,Ceará,Urbano,58,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+374,Ceará,Urbano,26,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+375,Ceará,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Física,Com objeto pérfuro-cortante,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Sim,Não,,,,30-39
+376,Ceará,Urbano,31,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+377,Ceará,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+378,Ceará,Urbano,20,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+379,Ceará,Urbano,64,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+380,Ceará,Rural,43,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+381,Ceará,Rural,43,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Via pública,Amigos(as)/colegas,Não,Não,Não,,,,40-49
+382,Ceará,Urbano,24,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Bar ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+383,Ceará,Urbano,45,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+384,Ceará,Urbano,46,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+385,Ceará,Urbano,42,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+386,Ceará,Urbano,35,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+387,Ceará,Urbano,21,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+388,Ceará,Rural,49,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,40-49
+389,Ceará,Urbano,46,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+390,Ceará,Urbano,31,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+391,Rio Grande do Norte,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+392,Rio Grande do Norte,Urbano,22,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+393,Rio Grande do Norte,Urbano,50,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Pelo menos uma vez por semana,Psicológica,Por meio de palavras ofensivas,Trabalho,Amigos(as)/colegas,Não,Não,Não,,,,50-59
+394,Rio Grande do Norte,Urbano,41,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+395,Rio Grande do Norte,Urbano,34,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+396,Rio Grande do Norte,Urbano,46,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+397,Rio Grande do Norte,Urbano,25,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+398,Rio Grande do Norte,Urbano,51,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Sim,Consultório particular ou clínica privada,Não,Não,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Trabalho,Patrão/chefe,Não,Não,Sim,Consultório particular ou clínica privada,Não,Não,50-59
+399,Rio Grande do Norte,Urbano,19,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+400,Rio Grande do Norte,Urbano,35,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+401,Rio Grande do Norte,Urbano,34,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+402,Rio Grande do Norte,Urbano,34,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+403,Rio Grande do Norte,Urbano,18,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+404,Rio Grande do Norte,Urbano,51,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Sim,Pelo menos uma vez por mês,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,50-59
+405,Rio Grande do Norte,Urbano,26,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+406,Rio Grande do Norte,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+407,Rio Grande do Norte,Urbano,63,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+408,Rio Grande do Norte,Urbano,48,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+409,Rio Grande do Norte,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+410,Rio Grande do Norte,Urbano,61,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Física,Com força corporal,Residência,Outro parente,Não,Sim,Sim,Unidade básica de saúde,Não,Sim,60+
+411,Rio Grande do Norte,Urbano,65,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+412,Rio Grande do Norte,Urbano,31,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+413,Rio Grande do Norte,Urbano,54,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+414,Rio Grande do Norte,Urbano,34,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+415,Rio Grande do Norte,Urbano,27,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Pelo menos uma vez por semana,Psicológica,Por meio de palavras ofensivas,Via pública,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Não,Sim,Centro de Especialidades/Policlínica/PAM,Não,Sim,18-29
+416,Rio Grande do Norte,Urbano,45,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+417,Rio Grande do Norte,Urbano,24,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,18-29
+418,Rio Grande do Norte,Urbano,26,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+419,Rio Grande do Norte,Urbano,24,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+420,Rio Grande do Norte,Urbano,49,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+421,Rio Grande do Norte,Rural,36,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+422,Rio Grande do Norte,Urbano,19,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Física,Com força corporal,Residência,Pai/Mãe,Não,Não,Não,,,,18-29
+423,Rio Grande do Norte,Rural,39,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+424,Rio Grande do Norte,Urbano,25,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+425,Rio Grande do Norte,Urbano,18,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+426,Rio Grande do Norte,Urbano,32,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+427,Rio Grande do Norte,Urbano,29,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,18-29
+428,Paraíba,Urbano,19,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+429,Paraíba,Urbano,49,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+430,Paraíba,Urbano,29,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+431,Paraíba,Urbano,23,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+432,Paraíba,Urbano,51,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+433,Paraíba,Urbano,32,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Outra pessoa conhecida,Não,Não,Não,,,,30-39
+434,Paraíba,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+435,Paraíba,Urbano,18,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+436,Paraíba,Urbano,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+437,Paraíba,Urbano,26,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+438,Paraíba,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+439,Paraíba,Urbano,32,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+440,Paraíba,Urbano,50,Branca,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+441,Paraíba,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,De três a seis vezes,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,18-29
+442,Paraíba,Urbano,39,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+443,Paraíba,Urbano,46,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+444,Paraíba,Urbano,51,Parda,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+445,Paraíba,Urbano,48,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+446,Paraíba,Urbano,44,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+447,Paraíba,Urbano,51,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Sim,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Trabalho,Patrão/chefe,Sim,Não,Não,,,,50-59
+448,Paraíba,Urbano,33,Parda,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+449,Paraíba,Rural,39,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+450,Paraíba,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+451,Paraíba,Urbano,39,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+452,Paraíba,Urbano,39,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+453,Paraíba,Urbano,54,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+454,Paraíba,Urbano,55,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+455,Paraíba,Rural,31,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+456,Paraíba,Rural,64,Parda,Psicológica,Outro,Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+457,Pernambuco,Urbano,39,Branca,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+458,Pernambuco,Urbano,32,Branca,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,De três a seis vezes,Outra,Com arma de fogo,Outro,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Não,Não,,,,30-39
+459,Pernambuco,Urbano,19,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+460,Pernambuco,Urbano,22,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Via pública,Amigos(as)/colegas,Sim,Não,Não,,,,18-29
+461,Pernambuco,Urbano,54,Parda,Física,Outro,Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+462,Pernambuco,Urbano,29,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+463,Pernambuco,Urbano,42,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Via pública,Outra pessoa conhecida,Não,Não,Não,,,,40-49
+464,Pernambuco,Urbano,48,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+465,Pernambuco,Urbano,59,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+466,Pernambuco,Urbano,60,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+467,Pernambuco,Urbano,41,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+468,Pernambuco,Urbano,36,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Outro,Outro parente,Não,Sim,Não,,,,30-39
+469,Pernambuco,Urbano,39,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+470,Pernambuco,Urbano,36,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+471,Pernambuco,Urbano,23,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+472,Pernambuco,Urbano,24,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+473,Pernambuco,Urbano,48,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+474,Pernambuco,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+475,Pernambuco,Urbano,50,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,50-59
+476,Pernambuco,Urbano,43,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Não,,,,,,,,,,,,40-49
+477,Pernambuco,Urbano,49,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+478,Pernambuco,Urbano,29,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+479,Pernambuco,Urbano,41,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+480,Pernambuco,Rural,44,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Outro,Filho(a),Não,Não,Não,,,,40-49
+481,Pernambuco,Urbano,49,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+482,Pernambuco,Urbano,34,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Sim,Uma vez,Física,Com força corporal,Outro,Outra pessoa conhecida,Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,30-39
+483,Pernambuco,Urbano,41,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+484,Pernambuco,Urbano,22,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+485,Pernambuco,Urbano,45,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+486,Pernambuco,Rural,53,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,50-59
+487,Alagoas,Urbano,30,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+488,Alagoas,Urbano,19,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Física,Com força corporal,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Sim,Não,,,,18-29
+489,Alagoas,Urbano,24,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+490,Alagoas,Urbano,18,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+491,Alagoas,Urbano,35,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,30-39
+492,Alagoas,Urbano,45,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+493,Alagoas,Urbano,33,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+494,Alagoas,Urbano,46,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Pronto-atendimento ou emergência de hospital privado,Não,Não,Não,,,,,,,,,,,,40-49
+495,Alagoas,Urbano,65,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,60+
+496,Alagoas,Urbano,22,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Duas vezes,Psicológica,Outro,Escola / Faculdade ou similar,Amigos(as)/colegas,Não,Não,Não,,,,18-29
+497,Alagoas,Urbano,40,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+498,Alagoas,Urbano,34,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+499,Alagoas,Urbano,41,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+500,Alagoas,Urbano,39,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+501,Alagoas,Urbano,25,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+502,Alagoas,Urbano,40,Indígena,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+503,Alagoas,Urbano,51,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+504,Alagoas,Urbano,19,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+505,Alagoas,Urbano,58,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+506,Alagoas,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+507,Alagoas,Urbano,18,Parda,Física,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+508,Alagoas,Urbano,21,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+509,Alagoas,Urbano,39,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+510,Alagoas,Urbano,36,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+511,Alagoas,Urbano,19,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,18-29
+512,Alagoas,Urbano,51,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+513,Alagoas,Urbano,44,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+514,Alagoas,Urbano,23,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+515,Alagoas,Urbano,26,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+516,Alagoas,Urbano,32,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+517,Alagoas,Urbano,27,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Sexual,Com força corporal,Residência,Outro parente,Não,Não,Não,,,,18-29
+518,Alagoas,Urbano,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+519,Alagoas,Urbano,38,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+520,Alagoas,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+521,Alagoas,Urbano,26,Preta,Sexual,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+522,Alagoas,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+523,Alagoas,Urbano,56,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,De três a seis vezes,Física,Com força corporal,Residência,Filho(a),Sim,Sim,Não,,,,50-59
+524,Alagoas,Urbano,38,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+525,Alagoas,Urbano,33,Parda,Outro,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Escola/Faculdade ou similar,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+526,Alagoas,Urbano,37,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+527,Alagoas,Urbano,31,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+528,Alagoas,Rural,43,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+529,Alagoas,Rural,35,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+530,Sergipe,Urbano,18,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+531,Sergipe,Urbano,34,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Banco/Caixa eletrônico/Lotérica,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+532,Sergipe,Urbano,27,Branca,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+533,Sergipe,Urbano,33,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+534,Sergipe,Urbano,29,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Sim,Consultório particular ou clínica privada,Não,Sim,Sim,Quase diariamente,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Sim,18-29
+535,Sergipe,Urbano,32,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+536,Sergipe,Urbano,47,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+537,Sergipe,Urbano,30,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Irmão(ã),Não,Não,Não,,,,30-39
+538,Sergipe,Urbano,23,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+539,Sergipe,Urbano,37,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,No local da violência,Não,Não,Não,,,,,,,,,,,,30-39
+540,Sergipe,Urbano,47,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+541,Sergipe,Urbano,35,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+542,Sergipe,Urbano,40,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+543,Sergipe,Urbano,32,Parda,Psicológica,Outro,Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+544,Sergipe,Urbano,23,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+545,Sergipe,Urbano,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+546,Sergipe,Urbano,60,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,60+
+547,Sergipe,Urbano,23,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+548,Sergipe,Urbano,27,Parda,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+549,Sergipe,Rural,30,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+550,Sergipe,Rural,39,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+551,Sergipe,Urbano,31,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+552,Sergipe,Urbano,34,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+553,Sergipe,Urbano,34,Amarela,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+554,Bahia,Urbano,36,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+555,Bahia,Urbano,49,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+556,Bahia,Urbano,42,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+557,Bahia,Urbano,22,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+558,Bahia,Urbano,19,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+559,Bahia,Urbano,30,Preta,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Agente legal público,Não,Sim,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Residência,Padrasto/Madrasta,Não,Não,Não,,,,30-39
+560,Bahia,Urbano,42,Branca,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+561,Bahia,Urbano,40,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+562,Bahia,Urbano,45,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+563,Bahia,Urbano,60,Branca,Física,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+564,Bahia,Urbano,19,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+565,Bahia,Urbano,40,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+566,Bahia,Urbano,36,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+567,Bahia,Urbano,24,Amarela,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+568,Bahia,Urbano,24,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+569,Bahia,Urbano,30,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+570,Bahia,Urbano,44,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+571,Bahia,Urbano,24,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+572,Bahia,Urbano,43,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+573,Bahia,Urbano,18,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+574,Bahia,Urbano,44,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+575,Bahia,Urbano,45,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+576,Bahia,Urbano,27,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+577,Bahia,Urbano,24,Branca,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+578,Bahia,Urbano,37,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+579,Bahia,Urbano,25,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+580,Bahia,Urbano,30,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+581,Bahia,Urbano,59,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+582,Bahia,Urbano,37,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+583,Bahia,Urbano,72,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+584,Bahia,Urbano,28,Preta,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+585,Bahia,Urbano,30,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+586,Bahia,Urbano,38,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+587,Bahia,Urbano,25,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+588,Bahia,Urbano,61,Parda,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+589,Bahia,Urbano,71,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+590,Bahia,Urbano,35,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+591,Bahia,Rural,33,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+592,Bahia,Rural,21,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,18-29
+593,Bahia,Rural,39,Preta,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+594,Bahia,Urbano,32,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+595,Bahia,Urbano,19,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Não,Não,,,,Sim,Pelo menos uma vez por semana,Psicológica,Por meio de palavras ofensivas,Residência,Irmão(ã),Sim,Não,Não,,,,18-29
+596,Bahia,Rural,63,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+597,Bahia,Urbano,25,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+598,Bahia,Urbano,25,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+599,Minas Gerais,Urbano,65,Branca,Física,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+600,Minas Gerais,Urbano,70,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+601,Minas Gerais,Urbano,32,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+602,Minas Gerais,Urbano,33,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+603,Minas Gerais,Urbano,47,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+604,Minas Gerais,Urbano,27,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Agente legal público,Não,Não,Não,,,,Sim,Pelo menos uma vez por mês,Psicológica,Por meio de palavras ofensivas,Residência,Pai/Mãe,Não,Não,Não,,,,18-29
+605,Minas Gerais,Urbano,72,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+606,Minas Gerais,Urbano,29,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+607,Minas Gerais,Urbano,47,Branca,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+608,Minas Gerais,Urbano,57,Indígena,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Sim,Não,,,,,,,,,,,,50-59
+609,Minas Gerais,Urbano,21,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+610,Minas Gerais,Urbano,19,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Outro tipo de Pronto Atendimento Público,Não,Não,Não,,,,,,,,,,,,18-29
+611,Minas Gerais,Urbano,36,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+612,Minas Gerais,Urbano,40,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+613,Minas Gerais,Urbano,36,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+614,Minas Gerais,Urbano,38,Parda,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+615,Minas Gerais,Urbano,36,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+616,Minas Gerais,Urbano,52,Branca,Outro,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+617,Minas Gerais,Urbano,49,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+618,Minas Gerais,Urbano,51,Parda,Psicológica,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+619,Minas Gerais,Urbano,37,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+620,Minas Gerais,Urbano,49,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+621,Minas Gerais,Urbano,47,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,Outro,Não,Não,Sim,Unidade básica de saúde,Não,Não,Sim,Quase diariamente,Psicológica,Com objeto pérfuro-cortante,Residência,Outra pessoa conhecida,Não,Não,Não,,,,40-49
+622,Minas Gerais,Urbano,50,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Bar ou similar,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+623,Minas Gerais,Urbano,37,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+624,Minas Gerais,Urbano,65,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+625,Minas Gerais,Urbano,69,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Residência,Outro parente,Sim,Não,Não,,,,60+
+626,Minas Gerais,Urbano,58,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+627,Minas Gerais,Urbano,62,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+628,Minas Gerais,Urbano,56,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+629,Minas Gerais,Urbano,49,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+630,Minas Gerais,Urbano,66,Parda,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+631,Minas Gerais,Urbano,25,Preta,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+632,Minas Gerais,Urbano,68,Parda,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+633,Minas Gerais,Urbano,74,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Sim,Uma vez,Física,Por meio de palavras ofensivas,Residência,Outro parente,Não,Não,Não,,,,60+
+634,Minas Gerais,Urbano,31,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+635,Minas Gerais,Urbano,47,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+636,Minas Gerais,Urbano,78,Parda,Física,Outro,Via pública,Outro,Sim,Sim,Não,,,,Não,,,,,,,,,,,,60+
+637,Minas Gerais,Urbano,42,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+638,Minas Gerais,Urbano,44,Parda,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+639,Minas Gerais,Rural,48,Branca,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+640,Minas Gerais,Rural,37,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+641,Minas Gerais,Urbano,27,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+642,Minas Gerais,Urbano,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+643,Minas Gerais,Urbano,40,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,40-49
+644,Minas Gerais,Urbano,40,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+645,Minas Gerais,Urbano,42,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,40-49
+646,Minas Gerais,Urbano,23,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,18-29
+647,Minas Gerais,Urbano,75,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+648,Minas Gerais,Rural,35,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+649,Minas Gerais,Urbano,34,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+650,Minas Gerais,Urbano,51,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,Outro,Sim,Sim,Não,,,,Não,,,,,,,,,,,,50-59
+651,Minas Gerais,Urbano,39,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+652,Minas Gerais,Urbano,58,Preta,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Trabalho,Outro,Não,Sim,Sim,No local da violência,Não,Não,Não,,,,,,,,,,,,50-59
+653,Minas Gerais,Urbano,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+654,Espírito Santo,Urbano,41,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+655,Espírito Santo,Urbano,46,Branca,Outro,Outro,Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+656,Espírito Santo,Urbano,85,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+657,Espírito Santo,Urbano,72,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+658,Espírito Santo,Urbano,41,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+659,Espírito Santo,Urbano,67,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+660,Espírito Santo,Urbano,41,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Física,Com arma de fogo,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Sim,Não,,,,40-49
+661,Espírito Santo,Urbano,49,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+662,Espírito Santo,Urbano,34,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+663,Espírito Santo,Urbano,19,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+664,Espírito Santo,Urbano,65,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+665,Espírito Santo,Urbano,61,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+666,Espírito Santo,Urbano,19,Branca,Física,Outro,Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+667,Espírito Santo,Urbano,27,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+668,Espírito Santo,Urbano,25,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+669,Espírito Santo,Urbano,27,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+670,Espírito Santo,Urbano,57,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+671,Espírito Santo,Urbano,56,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+672,Espírito Santo,Urbano,36,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+673,Espírito Santo,Urbano,28,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+674,Espírito Santo,Urbano,50,Branca,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Não,,,,,,,,,,,,50-59
+675,Espírito Santo,Urbano,62,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Sim,Pelo menos uma vez por mês,Psicológica,Por meio de palavras ofensivas,Residência,Filho(a),Não,Não,Não,,,,60+
+676,Espírito Santo,Urbano,34,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+677,Rio de Janeiro,Urbano,71,Parda,Outro,Outro,Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+678,Rio de Janeiro,Urbano,37,Branca,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+679,Rio de Janeiro,Urbano,83,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+680,Rio de Janeiro,Urbano,37,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+681,Rio de Janeiro,Urbano,63,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+682,Rio de Janeiro,Urbano,20,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+683,Rio de Janeiro,Urbano,33,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+684,Rio de Janeiro,Urbano,27,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+685,Rio de Janeiro,Urbano,25,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Via pública,Amigos(as)/colegas,Não,Não,Não,,,,18-29
+686,Rio de Janeiro,Urbano,55,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+687,Rio de Janeiro,Urbano,31,Branca,Sexual,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Sim,Não,,,,,,,,,,,,30-39
+688,Rio de Janeiro,Urbano,59,Parda,Sexual,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Sim,Não,,,,,,,,,,,,50-59
+689,Rio de Janeiro,Urbano,24,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+690,Rio de Janeiro,Urbano,32,Preta,Psicológica,Outro,Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+691,Rio de Janeiro,Urbano,40,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+692,Rio de Janeiro,Urbano,38,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+693,Rio de Janeiro,Urbano,23,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+694,Rio de Janeiro,Urbano,67,Branca,Psicológica,Outro,Residência,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+695,Rio de Janeiro,Urbano,56,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+696,Rio de Janeiro,Urbano,35,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+697,Rio de Janeiro,Urbano,31,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,De sete a menos de 12 vezes,Sexual,Por meio de palavras ofensivas,Residência,Pai/Mãe,Não,Sim,Sim,Consultório particular ou clínica privada,Não,Não,30-39
+698,Rio de Janeiro,Urbano,72,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Filho(a),Não,Não,Não,,,,60+
+699,Rio de Janeiro,Urbano,55,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+700,Rio de Janeiro,Urbano,56,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+701,Rio de Janeiro,Urbano,24,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+702,Rio de Janeiro,Urbano,75,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+703,Rio de Janeiro,Urbano,70,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,Agente legal público,Não,Não,Sim,Hospital público/ambulatório,Sim,Não,Não,,,,,,,,,,,,60+
+704,Rio de Janeiro,Urbano,31,Amarela,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,No local da violência,Não,Sim,Não,,,,,,,,,,,,30-39
+705,Rio de Janeiro,Urbano,27,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+706,Rio de Janeiro,Urbano,21,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+707,Rio de Janeiro,Urbano,30,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+708,Rio de Janeiro,Urbano,30,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+709,Rio de Janeiro,Urbano,44,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+710,Rio de Janeiro,Urbano,30,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+711,Rio de Janeiro,Urbano,32,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+712,Rio de Janeiro,Urbano,33,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+713,Rio de Janeiro,Urbano,47,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+714,Rio de Janeiro,Rural,81,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+715,Rio de Janeiro,Urbano,34,Preta,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+716,Rio de Janeiro,Urbano,55,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+717,Rio de Janeiro,Urbano,23,Branca,Física,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+718,Rio de Janeiro,Urbano,49,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+719,Rio de Janeiro,Urbano,44,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,40-49
+720,Rio de Janeiro,Urbano,47,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+721,Rio de Janeiro,Urbano,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+722,Rio de Janeiro,Urbano,19,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Sim,Não,,,,,,,,,,,,18-29
+723,Rio de Janeiro,Urbano,43,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+724,São Paulo,Urbano,34,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+725,São Paulo,Urbano,43,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Sim,De três a seis vezes,Física,Por meio de palavras ofensivas,Trabalho,Patrão/chefe,Sim,Não,Não,,,,40-49
+726,São Paulo,Urbano,51,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+727,São Paulo,Urbano,55,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Trabalho,Outra pessoa conhecida,Não,Não,Não,,,,50-59
+728,São Paulo,Urbano,64,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+729,São Paulo,Urbano,34,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+730,São Paulo,Urbano,81,Branca,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+731,São Paulo,Urbano,56,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+732,São Paulo,Urbano,48,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+733,São Paulo,Urbano,37,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+734,São Paulo,Urbano,30,Preta,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+735,São Paulo,Urbano,55,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+736,São Paulo,Urbano,42,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+737,São Paulo,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+738,São Paulo,Urbano,46,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+739,São Paulo,Urbano,22,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+740,São Paulo,Urbano,29,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+741,São Paulo,Urbano,55,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+742,São Paulo,Urbano,47,Amarela,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+743,São Paulo,Urbano,44,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+744,São Paulo,Urbano,53,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+745,São Paulo,Urbano,31,Branca,Outro,Outro,Bar ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+746,São Paulo,Urbano,26,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+747,São Paulo,Urbano,26,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+748,São Paulo,Urbano,48,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+749,São Paulo,Rural,24,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+750,São Paulo,Urbano,31,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+751,São Paulo,Urbano,30,Amarela,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+752,São Paulo,Urbano,28,Amarela,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,18-29
+753,São Paulo,Urbano,42,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+754,São Paulo,Urbano,77,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,60+
+755,São Paulo,Urbano,24,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+756,São Paulo,Urbano,27,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+757,São Paulo,Urbano,63,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+758,São Paulo,Urbano,79,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+759,São Paulo,Urbano,61,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+760,São Paulo,Urbano,30,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+761,São Paulo,Urbano,66,Amarela,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+762,São Paulo,Urbano,61,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+763,São Paulo,Urbano,23,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+764,São Paulo,Urbano,37,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+765,São Paulo,Urbano,39,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+766,São Paulo,Urbano,41,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+767,São Paulo,Urbano,80,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+768,São Paulo,Urbano,43,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+769,São Paulo,Rural,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+770,São Paulo,Rural,43,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+771,São Paulo,Rural,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+772,São Paulo,Rural,31,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+773,São Paulo,Rural,34,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+774,São Paulo,Urbano,58,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+775,São Paulo,Urbano,44,Branca,Outro,Outro,Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+776,São Paulo,Urbano,44,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,40-49
+777,São Paulo,Urbano,61,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+778,São Paulo,Urbano,24,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+779,São Paulo,Urbano,32,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+780,São Paulo,Urbano,23,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+781,São Paulo,Urbano,62,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+782,São Paulo,Urbano,54,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,50-59
+783,São Paulo,Urbano,32,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Sim,Uma vez,Física,Com arma de fogo,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,30-39
+784,São Paulo,Urbano,54,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+785,São Paulo,Urbano,35,Preta,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+786,São Paulo,Urbano,32,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+787,São Paulo,Urbano,29,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+788,São Paulo,Urbano,61,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+789,São Paulo,Urbano,28,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+790,São Paulo,Urbano,53,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+791,São Paulo,Urbano,36,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+792,São Paulo,Urbano,34,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+793,São Paulo,Urbano,57,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+794,São Paulo,Urbano,39,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+795,São Paulo,Urbano,25,Preta,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+796,São Paulo,Urbano,35,Preta,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Sim,Não,,,,Sim,Duas vezes,Física,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,30-39
+797,São Paulo,Urbano,58,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+798,São Paulo,Urbano,44,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Outra,Por meio de palavras ofensivas,Residência,Outra pessoa conhecida,Não,Não,Não,,,,40-49
+799,São Paulo,Urbano,61,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+800,São Paulo,Urbano,48,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+801,São Paulo,Urbano,51,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Outra,Com força corporal,Residência,Outra pessoa conhecida,Sim,Não,Não,,,,50-59
+802,São Paulo,Urbano,37,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+803,São Paulo,Urbano,36,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Pelo menos uma vez por semana,Psicológica,Por meio de palavras ofensivas,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,30-39
+804,São Paulo,Urbano,60,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+805,São Paulo,Urbano,29,Parda,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+806,São Paulo,Urbano,45,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Bar ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+807,São Paulo,Urbano,20,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+808,São Paulo,Urbano,18,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+809,São Paulo,Urbano,50,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+810,São Paulo,Urbano,65,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,60+
+811,São Paulo,Urbano,60,Branca,Física,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+812,São Paulo,Urbano,56,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Sim,Duas vezes,Psicológica,Outro,Residência,Filho(a),Sim,Não,Não,,,,50-59
+813,São Paulo,Rural,59,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+814,São Paulo,Urbano,51,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+815,São Paulo,Urbano,80,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,UPA,Não,Não,Não,,,,,,,,,,,,60+
+816,São Paulo,Urbano,29,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+817,São Paulo,Urbano,66,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+818,São Paulo,Rural,65,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+819,Paraná,Urbano,54,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+820,Paraná,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+821,Paraná,Urbano,43,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+822,Paraná,Urbano,47,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+823,Paraná,Urbano,61,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,60+
+824,Paraná,Urbano,29,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+825,Paraná,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+826,Paraná,Urbano,53,Branca,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+827,Paraná,Urbano,77,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+828,Paraná,Urbano,43,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+829,Paraná,Urbano,30,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Hospital público/ambulatório,Sim,Não,Não,,,,,,,,,,,,30-39
+830,Paraná,Urbano,29,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Escola/Faculdade ou similar,Outro,Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,18-29
+831,Paraná,Urbano,52,Branca,Psicológica,Outro,Via pública,Outro,Sim,Não,Não,,,,Sim,De sete a menos de 12 vezes,Psicológica,Por meio de palavras ofensivas,Outro,Amigos(as)/colegas,Sim,Não,Não,,,,50-59
+832,Paraná,Urbano,23,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+833,Paraná,Urbano,27,Branca,Física,Outro,Via pública,Outro,Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+834,Paraná,Urbano,60,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+835,Paraná,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+836,Paraná,Urbano,39,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+837,Paraná,Urbano,25,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+838,Paraná,Urbano,34,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+839,Paraná,Urbano,43,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,De sete a menos de 12 vezes,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Sim,Outro,Não,Sim,40-49
+840,Paraná,Urbano,56,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+841,Paraná,Urbano,19,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+842,Paraná,Urbano,59,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+843,Paraná,Urbano,18,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Escola/Faculdade ou similar,Outro,Não,Não,Não,,,,Sim,Duas vezes,Física,Com lançamento de objetos,Residência,Pai/Mãe,Não,Sim,Não,,,,18-29
+844,Paraná,Urbano,29,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,Outro,Não,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Não,,,,,,,,,,,,18-29
+845,Paraná,Urbano,40,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+846,Paraná,Urbano,21,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+847,Paraná,Urbano,60,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+848,Paraná,Urbano,35,Parda,Psicológica,Outro,Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+849,Paraná,Urbano,50,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+850,Paraná,Urbano,19,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+851,Paraná,Urbano,32,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+852,Paraná,Urbano,48,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+853,Paraná,Urbano,45,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Consultório particular ou clínica privada,Não,Sim,Não,,,,,,,,,,,,40-49
+854,Paraná,Urbano,47,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Sim,Sim,Outro tipo de Pronto Atendimento Público,Não,Não,Não,,,,,,,,,,,,40-49
+855,Paraná,Urbano,26,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Residência,Pai/Mãe,Sim,Não,Não,,,,18-29
+856,Paraná,Urbano,37,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+857,Paraná,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+858,Paraná,Urbano,18,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+859,Paraná,Urbano,57,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+860,Paraná,Urbano,70,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,60+
+861,Paraná,Urbano,61,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Sim,Sim,Não,,,,Não,,,,,,,,,,,,60+
+862,Paraná,Urbano,43,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+863,Paraná,Urbano,30,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Sim,Centro de Especialidades/Policlínica/PAM,Não,Sim,Não,,,,,,,,,,,,30-39
+864,Paraná,Urbano,49,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,UPA,Não,Sim,Não,,,,,,,,,,,,40-49
+865,Paraná,Urbano,19,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Trabalho,Outra pessoa conhecida,Não,Não,Não,,,,18-29
+866,Paraná,Rural,26,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+867,Paraná,Urbano,44,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+868,Santa Catarina,Urbano,29,Preta,Sexual,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,Outro,Sim,Sim,Não,,,,Sim,Pelo menos uma vez por semana,Psicológica,Por meio de palavras ofensivas,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Não,Sim,Consultório particular ou clínica privada,Não,Sim,18-29
+869,Santa Catarina,Urbano,47,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+870,Santa Catarina,Urbano,51,Preta,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+871,Santa Catarina,Urbano,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Consultório particular ou clínica privada,Não,Sim,Não,,,,,,,,,,,,40-49
+872,Santa Catarina,Urbano,24,Branca,Psicológica,Outro,Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+873,Santa Catarina,Urbano,71,Branca,Física,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,60+
+874,Santa Catarina,Urbano,45,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+875,Santa Catarina,Urbano,39,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+876,Santa Catarina,Urbano,19,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+877,Santa Catarina,Urbano,39,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Não,Sim,Sim,Unidade básica de saúde,Sim,Não,Sim,Uma vez,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Sim,Unidade básica de saúde,Sim,Não,30-39
+878,Santa Catarina,Urbano,21,Preta,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+879,Santa Catarina,Urbano,30,Branca,Psicológica,Outro,Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+880,Santa Catarina,Urbano,45,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+881,Santa Catarina,Urbano,38,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+882,Santa Catarina,Urbano,20,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+883,Santa Catarina,Urbano,50,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Sim,Outro tipo de Pronto Atendimento Público,Não,Não,Não,,,,,,,,,,,,50-59
+884,Rio Grande do Sul,Urbano,25,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+885,Rio Grande do Sul,Urbano,80,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+886,Rio Grande do Sul,Urbano,79,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+887,Rio Grande do Sul,Urbano,56,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Outro tipo de Pronto Atendimento Público,Não,Não,Não,,,,,,,,,,,,50-59
+888,Rio Grande do Sul,Urbano,54,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+889,Rio Grande do Sul,Urbano,75,Branca,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+890,Rio Grande do Sul,Urbano,48,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+891,Rio Grande do Sul,Urbano,39,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+892,Rio Grande do Sul,Urbano,27,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+893,Rio Grande do Sul,Urbano,24,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+894,Rio Grande do Sul,Urbano,26,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+895,Rio Grande do Sul,Urbano,62,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+896,Rio Grande do Sul,Urbano,48,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+897,Rio Grande do Sul,Urbano,68,Branca,Outro,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+898,Rio Grande do Sul,Urbano,37,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+899,Rio Grande do Sul,Urbano,44,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+900,Rio Grande do Sul,Urbano,48,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+901,Rio Grande do Sul,Urbano,52,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+902,Rio Grande do Sul,Urbano,49,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+903,Rio Grande do Sul,Urbano,82,Branca,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+904,Rio Grande do Sul,Urbano,69,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+905,Rio Grande do Sul,Urbano,38,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+906,Rio Grande do Sul,Urbano,42,Branca,Física,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+907,Rio Grande do Sul,Urbano,57,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+908,Rio Grande do Sul,Urbano,18,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+909,Rio Grande do Sul,Rural,67,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+910,Rio Grande do Sul,Urbano,66,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+911,Rio Grande do Sul,Urbano,71,Branca,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Residência,Filho(a),Sim,Não,Não,,,,60+
+912,Rio Grande do Sul,Rural,56,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+913,Rio Grande do Sul,Rural,51,Branca,Psicológica,Outro,Outro,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+914,Rio Grande do Sul,Urbano,32,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+915,Rio Grande do Sul,Rural,32,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+916,Rio Grande do Sul,Urbano,45,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+917,Mato Grosso do Sul,Urbano,37,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+918,Mato Grosso do Sul,Urbano,62,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+919,Mato Grosso do Sul,Urbano,20,Branca,Física,Outro,Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+920,Mato Grosso do Sul,Urbano,28,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+921,Mato Grosso do Sul,Urbano,42,Branca,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+922,Mato Grosso do Sul,Urbano,31,Branca,Psicológica,Outro,Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+923,Mato Grosso do Sul,Urbano,41,Preta,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+924,Mato Grosso do Sul,Urbano,37,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Trabalho,Outro,Sim,Não,Sim,No local da violência,Não,Não,Não,,,,,,,,,,,,30-39
+925,Mato Grosso do Sul,Rural,43,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+926,Mato Grosso do Sul,Urbano,33,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+927,Mato Grosso do Sul,Urbano,59,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+928,Mato Grosso do Sul,Urbano,37,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+929,Mato Grosso do Sul,Urbano,40,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+930,Mato Grosso do Sul,Urbano,61,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+931,Mato Grosso do Sul,Urbano,23,Branca,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Trabalho,Outro,Sim,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Não,,,,,,,,,,,,18-29
+932,Mato Grosso do Sul,Urbano,43,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+933,Mato Grosso do Sul,Urbano,42,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Consultório particular ou clínica privada,Não,Não,Não,,,,,,,,,,,,40-49
+934,Mato Grosso do Sul,Urbano,27,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+935,Mato Grosso do Sul,Urbano,59,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+936,Mato Grosso do Sul,Urbano,38,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,30-39
+937,Mato Grosso do Sul,Urbano,39,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+938,Mato Grosso do Sul,Urbano,37,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+939,Mato Grosso do Sul,Urbano,35,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+940,Mato Grosso do Sul,Urbano,39,Preta,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+941,Mato Grosso do Sul,Urbano,38,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Escola/Faculdade ou similar,Outro,Sim,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,30-39
+942,Mato Grosso,Urbano,45,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+943,Mato Grosso,Urbano,32,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+944,Mato Grosso,Urbano,42,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+945,Mato Grosso,Urbano,48,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+946,Mato Grosso,Urbano,35,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+947,Mato Grosso,Urbano,23,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Sim,Uma vez,Física,Com força corporal,Via pública,Cônjuge/companheiro(a)/namorado(a),Não,Sim,Não,,,,18-29
+948,Mato Grosso,Urbano,66,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+949,Mato Grosso,Urbano,42,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+950,Mato Grosso,Urbano,59,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+951,Mato Grosso,Urbano,21,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+952,Mato Grosso,Urbano,37,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+953,Mato Grosso,Urbano,37,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Bar ou similar,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+954,Mato Grosso,Urbano,26,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,No local da violência,Não,Não,Não,,,,,,,,,,,,18-29
+955,Mato Grosso,Urbano,22,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+956,Mato Grosso,Urbano,32,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+957,Mato Grosso,Urbano,27,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+958,Mato Grosso,Urbano,45,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+959,Mato Grosso,Urbano,27,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+960,Mato Grosso,Urbano,35,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+961,Mato Grosso,Urbano,34,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+962,Mato Grosso,Urbano,74,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+963,Mato Grosso,Urbano,27,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+964,Mato Grosso,Urbano,48,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Bar ou similar,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,40-49
+965,Mato Grosso,Urbano,60,Branca,Psicológica,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+966,Mato Grosso,Urbano,60,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+967,Mato Grosso,Urbano,67,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+968,Mato Grosso,Urbano,58,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,50-59
+969,Mato Grosso,Urbano,68,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+970,Mato Grosso,Urbano,19,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Agente legal público,Sim,Sim,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,18-29
+971,Mato Grosso,Urbano,56,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+972,Mato Grosso,Urbano,74,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+973,Mato Grosso,Urbano,47,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+974,Mato Grosso,Rural,20,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Agente legal público,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+975,Goiás,Urbano,27,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+976,Goiás,Urbano,50,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+977,Goiás,Urbano,32,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Agente legal público,Não,Não,Não,,,,Sim,De três a seis vezes,Física,Com arma de fogo,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Sim,Sim,Hospital público/ambulatório,Não,Sim,30-39
+978,Goiás,Urbano,22,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+979,Goiás,Urbano,65,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Não,,,,Não,,,,,,,,,,,,60+
+980,Goiás,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+981,Goiás,Urbano,22,Parda,Psicológica,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+982,Goiás,Urbano,40,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Bar ou similar,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+983,Goiás,Urbano,41,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Escola/Faculdade ou similar,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+984,Goiás,Urbano,53,Branca,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,50-59
+985,Goiás,Urbano,28,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+986,Goiás,Urbano,31,Amarela,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+987,Goiás,Urbano,32,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,De três a seis vezes,Física,Com força corporal,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Sim,Não,,,,30-39
+988,Goiás,Urbano,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+989,Goiás,Urbano,64,Branca,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,60+
+990,Goiás,Urbano,20,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Não,,,,Não,,,,,,,,,,,,18-29
+991,Goiás,Urbano,35,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Outro,Outro,Não,Sim,Sim,Pronto-socorro ou emergência de hospital público,Não,Não,Não,,,,,,,,,,,,30-39
+992,Goiás,Urbano,46,Parda,Outro,Outro,Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+993,Goiás,Urbano,39,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Uma vez,Física,Com força corporal,Residência,Cônjuge/companheiro(a)/namorado(a),Não,Não,Não,,,,30-39
+994,Goiás,Urbano,41,Indígena,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Sim,Sim,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+995,Goiás,Urbano,48,Amarela,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+996,Goiás,Urbano,34,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+997,Goiás,Urbano,19,Branca,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+998,Goiás,Urbano,44,Branca,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,40-49
+999,Goiás,Urbano,22,Branca,Sexual,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,18-29
+1000,Goiás,Urbano,31,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1001,Goiás,Urbano,36,Branca,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1002,Goiás,Urbano,40,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,"Bandido, ladrão ou assaltante",Sim,Não,Sim,Unidade básica de saúde,Não,Sim,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Não,Sim,Pronto-socorro ou emergência de hospital público,Sim,Sim,40-49
+1003,Goiás,Urbano,61,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+1004,Goiás,Urbano,75,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Banco/Caixa eletrônico/Lotérica,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+1005,Goiás,Rural,21,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1006,Goiás,Urbano,64,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Sim,Unidade básica de saúde,Não,Não,Não,,,,,,,,,,,,60+
+1007,Goiás,Urbano,30,Branca,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Outro,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1008,Goiás,Urbano,38,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Sim,Duas vezes,Psicológica,Por meio de palavras ofensivas,Via pública,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,30-39
+1009,Goiás,Urbano,33,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1010,Goiás,Urbano,35,Preta,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1011,Goiás,Urbano,29,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Bar ou similar,Outro,Não,Não,Não,,,,Sim,De três a seis vezes,Psicológica,Por meio de palavras ofensivas,Residência,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Não,Não,Não,,,,18-29
+1012,Goiás,Urbano,47,Parda,Física,"Com força corporal, espancamento (tapa, murro, empurrão)",Bar ou similar,Outro,Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,40-49
+1013,Distrito Federal,Urbano,69,Branca,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Outro,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+1014,Distrito Federal,Urbano,64,Parda,Psicológica,"Com força corporal, espancamento (tapa, murro, empurrão)",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+1015,Distrito Federal,Urbano,19,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1016,Distrito Federal,Urbano,37,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Outro,Sim,Não,Sim,Pronto-atendimento ou emergência de hospital privado,Não,Sim,Não,,,,,,,,,,,,30-39
+1017,Distrito Federal,Urbano,30,Amarela,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,"Bandido, ladrão ou assaltante",Sim,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1018,Distrito Federal,Urbano,64,Parda,Outro,Outro,Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
+1019,Distrito Federal,Urbano,20,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Residência,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1020,Distrito Federal,Urbano,58,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+1021,Distrito Federal,Urbano,64,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Sim,Não,Não,,,,Não,,,,,,,,,,,,60+
+1022,Distrito Federal,Urbano,22,Amarela,Física,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1023,Distrito Federal,Urbano,22,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1024,Distrito Federal,Urbano,25,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Residência,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1025,Distrito Federal,Urbano,34,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1026,Distrito Federal,Urbano,18,Parda,Física,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1027,Distrito Federal,Urbano,34,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Sim,Quase diariamente,Psicológica,Por meio de palavras ofensivas,Residência,Cônjuge/companheiro(a)/namorado(a),Sim,Não,Sim,Outro tipo de Pronto Atendimento Público,Não,Sim,30-39
+1028,Distrito Federal,Urbano,53,Parda,Psicológica,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,50-59
+1029,Distrito Federal,Urbano,38,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Trabalho,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1030,Distrito Federal,Urbano,26,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Trabalho,Agente legal público,Não,Não,Não,,,,Sim,Uma vez,Psicológica,Por meio de palavras ofensivas,Residência,Irmão(ã),Não,Não,Não,,,,18-29
+1031,Distrito Federal,Urbano,40,Parda,Física,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)",Via pública,Outro,Não,Sim,Não,,,,Sim,Uma vez,Física,Com objeto pérfuro-cortante,Via pública,Ex-cônjuge/ex-companheiro(a)/ex-namorado(a),Sim,Sim,Não,,,,40-49
+1032,Distrito Federal,Urbano,25,Parda,Outro,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1033,Distrito Federal,Urbano,41,Parda,Sexual,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)",Via pública,"Bandido, ladrão ou assaltante",Não,Sim,Sim,Hospital público/ambulatório,Não,Não,Não,,,,,,,,,,,,40-49
+1034,Distrito Federal,Urbano,47,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,40-49
+1035,Distrito Federal,Urbano,43,Parda,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Agente legal público,Sim,Não,Não,,,,Não,,,,,,,,,,,,40-49
+1036,Distrito Federal,Urbano,30,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1037,Distrito Federal,Urbano,18,Parda,Outro,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,Outro,Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1038,Distrito Federal,Urbano,29,Parda,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1039,Distrito Federal,Urbano,30,Preta,Psicológica,"Com arma de fogo (revólver, escopeta, pistola)",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,30-39
+1040,Distrito Federal,Urbano,18,Parda,Física,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,18-29
+1041,Distrito Federal,Rural,63,Branca,Psicológica,"Por meio de palavras ofensivas, xingamentos ou palavrões",Via pública,"Bandido, ladrão ou assaltante",Não,Não,Não,,,,Não,,,,,,,,,,,,60+
