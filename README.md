@@ -29,7 +29,22 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 - **Justificativa da escolha:** Como Março é marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
 
 ## Objetivo da análise
-Construir um dashboard que permita **visualizar e explorar indicadores principais** do dataset escolhido (Kaggle), identificando padrões, comparações e tendências relevantes (ex.: evolução ao longo do tempo, distribuição por categorias, ranking de itens e variações por grupos), apoiando uma leitura rápida por meio de **KPIs, gráficos e filtros**.
+## Perguntas de análise (definidas pelo grupo)
+
+### Análise Descritiva (compreender o cenário)
+- Qual a distribuição etária e racial das vítimas? (se existir no dataset)
+- Como é a distribuição entre estados?
+  - estado com maior índice por população (se existir base populacional ou integração);
+  - estado com menor índice por população (idem).
+- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e quem são os principais agressores? (se existir no dataset)
+- Existem padrões sazonais (aumento em meses específicos, fins de semana)? (se existir data)
+
+### Análise Preditiva (antecipar riscos)
+- Com base na série histórica, qual a previsão de casos para o próximo ano e para os próximos cinco anos, considerando regiões e raça? (se houver tempo + variáveis)
+
+### Análise Prescritiva (orientar decisões/ações)
+- Considerando os perfis de risco identificados, qual deve ser o perfil sociodemográfico alvo de uma campanha de prevenção?
+- Em quais municípios ou regiões a alocação de recursos (casas-abrigo, delegacias especializadas) teria maior potencial impacto? (se houver município/região)
 
 ## Planejamento do ETL (Pandas + carga)
 O pipeline seguirá as etapas: **extração → transformação → carga**, com foco em gerar uma base limpa e estruturada para o dashboard.
