@@ -1,16 +1,17 @@
-# PI-1-Dashboard
+# Projeto Integrador - Low Code em Ciência de Dados 
+### (Grupo 46)
 
 ## Tema do projeto
 Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visualização em Streamlit.
 
 ## Integrantes
-- Júlio (@dapievejukio)
-- Jhon Diass (@JhonDiass)
+- Brunna Stival (@brunnastival)
 - Caio Luna (@caioluna)
 - Danubio Souza (@Danubio229)
-- Hugo Miguel (@hugomfrosa)
-- Brunna Stival (@brunnastival)
 - Franciane Giselle (@itgiselle)
+- Hugo Miguel (@hugomfrosa)
+- Jhon Diass (@JhonDiass)
+- Júlio (@dapievejukio)
 
 ## Distribuição de tarefas (a escolher pelo grupo)
 As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
@@ -25,19 +26,18 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 ## Base de dados (Kaggle)
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio 
 - **Link:** https://www.kaggle.com/datasets/rafatrindade/feminicidio-br
-- **Contexto/origem (resumo):** O objetivo desta coleta de dados é oferecer uma visão detalhada dos casos de feminicídios no Brasil, sendo possível analisar o perfil das vítimas, contexto e local para ajudar no combate contra este crime.
-- **Justificativa da escolha:** Como Março é marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha dessa _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no circulo social.
+- **Contexto/origem:** O objetivo desta coleta de dados é oferecer uma visão detalhada dos casos de feminicídios no Brasil, sendo possível analisar o perfil das vítimas, contexto e local para ajudar no combate contra este crime.
+- **Objetivo da análise:** Sendo o mês de março marcado pelo dia internacional da mulher e termos registros de altas históricas de feminicídio no país, a escolha desse _Dataset_ tem o intuito de conscientizar o leitor com a importância da luta contra o feminicidio e a procura de ajuda ao ter conhecimento de possíveis casos no círculo social.
 
-## Objetivo da análise
-## Perguntas de análise (definidas pelo grupo)
+## Visualizações e métricas desejadas
 
 ### Análise Descritiva (compreender o cenário)
-- Qual a distribuição etária e racial das vítimas? (se existir no dataset)
+- Qual a distribuição etária e racial das vítimas?
 - Como é a distribuição entre estados?
-  - estado com maior índice por população (se existir base populacional ou integração);
-  - estado com menor índice por população (idem).
-- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e quem são os principais agressores? (se existir no dataset)
-- Existem padrões sazonais (aumento em meses específicos, fins de semana)? (se existir data)
+  - estado com maior índice por população;
+  - estado com menor índice por população.
+- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e quem são os principais agressores?
+- Existem padrões sazonais (aumento em meses específicos, fins de semana)?
 
 ### Análise Preditiva (antecipar riscos)
 - Com base na série histórica, qual a previsão de casos para o próximo ano e para os próximos cinco anos, considerando regiões e raça? (se houver tempo + variáveis)
@@ -98,10 +98,6 @@ O dashboard será construído no Streamlit para permitir visualização rápida 
 - `src/` — scripts do ETL e funções auxiliares
 
 ## Cronograma até 23/03/2026 (Etapa 1)
-- **Semana 1:** criar repo/estrutura + escolher dataset Kaggle + definir objetivo inicial
+- **Semana 1:** criar repositório/estrutura + escolher dataset Kaggle + definir objetivo inicial
 - **Semana 2:** planejar ETL + definir KPIs/perguntas + rascunhar layout do dashboard
-- **Semana 3:** revisar README + garantir coerência (dataset ↔ ETL ↔ KPIs ↔ dashboard) + preparar entrega do link do repo
-
-## Observações
-- O dataset do Kaggle é obrigatório para o projeto.
-- O foco da Etapa 1 é **planejamento e estruturação** (não é necessário implementar tudo agora).
+- **Semana 3:** revisar README + garantir coerência (dataset ↔ ETL ↔ KPIs ↔ dashboard) + preparar entrega do link do repositório
