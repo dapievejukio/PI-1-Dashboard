@@ -15,19 +15,20 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 - Júlio (@dapievejukio)
 
 ## Distribuição de tarefas (a escolher pelo grupo)
-As funções abaixo serão escolhidas pelos integrantes, para fechar a Etapa 1:
+As funções abaixo serão escolhidas pelos integrantes para fechar a Etapa 1:
 
 - **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa. (Responsável: Jhon Diass / @JhonDiass)
 - **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros. (Responsáveis: Caio Luna @caioluna, Glauco Campos @turistech)
 - **Função C — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite). (Responsável: Franciane Giselle @itgiselle)
 - **Função D — Ideia do dashboard:** layout (cards + gráficos + tabela) e visualizações.
 - **Função E — Revisão final README + cronograma:** consolidar tudo e revisar coerência.
-- **Função F — Repositório/organização:** manter estrutura, commits e ajustes no GitHub (Responsável inicial: Júlio / @dapievejukio)
+- **Função F — Repositório/organização:** manter estrutura, commits e ajustes no GitHub. (Responsável inicial: Júlio / @dapievejukio)
 
 ## Base de dados (Kaggle)
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio  
 - **Link:** https://www.kaggle.com/datasets/rafatrindade/feminicidio-br  
 - **Arquivo principal do projeto (para o dashboard):** `pns_violencia_2019.csv` (PNS 2019 – mulheres entrevistadas que relataram algum tipo de violência)  
+- **Arquivos complementares (opcional):** outros arquivos do mesmo dataset podem ser usados depois, se fizer sentido e houver tempo.  
 - **Contexto/origem:** Conjunto filtrado de microdados da Pesquisa Nacional de Saúde (2019) com informações sobre tipo de agressão, autor/agressor, local da ocorrência e possíveis consequências para a saúde.  
 - **Justificativa da escolha:** Como março é marcado pelo Dia Internacional da Mulher e o tema tem alta relevância social no Brasil, escolhemos esse dataset para apoiar um dashboard de conscientização e análise de padrões dos **relatos de violência**, ajudando a visualizar perfil, contexto e fatores associados.
 
@@ -41,16 +42,16 @@ Construir um dashboard em Streamlit para **visualizar e explorar indicadores** d
 - Como é a distribuição por UF e por área (urbano/rural)?
 - Qual o tipo de violência (psicológica, física, sexual) mais frequente?
 - Quem aparece com mais frequência como autor/agressor (conforme colunas do dataset)?
-- Quais são os locais mais citados para a ocorrência? (casa, via pública, outros, etc.)
-- A vítima registrou ocorrência/denúncia? (se existir a variável)
-- **Opcional (se existir dado de tempo):** há padrão por mês/dia da semana/fim de semana?
+- Quais são os locais mais citados para a ocorrência (casa, via pública, outros, etc.)?
+- A vítima registrou ocorrência/denúncia (se existir a variável)?
+- **Opcional:** padrão por mês/dia da semana/fim de semana (apenas se existir variável temporal).
 
 ### Análise Preditiva (antecipar riscos) — opcional
-- **Opcional (se houver variável temporal suficiente):** previsão de registros para o próximo ano / próximos anos.
+- **Opcional:** previsão de tendência para períodos futuros (somente se houver variável temporal suficiente).
 
 ### Análise Prescritiva (orientar ações) — opcional
 - Com base nos perfis observados, qual perfil deveria ser priorizado em campanhas de prevenção (conforme variáveis disponíveis)?
-- **Opcional (se houver município/região detalhada e/ou integração externa):** quais regiões teriam maior potencial de impacto para ações e recursos.
+- **Opcional:** priorização por município/região (somente se houver município/região detalhada e/ou integração com base externa).
 
 > Observação: itens marcados como “Opcional” dependem das colunas existentes no arquivo e/ou integração com bases externas.
 
