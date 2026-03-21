@@ -9,9 +9,11 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 - Caio Luna (@caioluna)
 - Danubio Souza (@Danubio229)
 - Franciane Giselle (@itgiselle)
+- Glauco Campos (turistech)
 - Hugo Miguel (@hugomfrosa)
 - Jhon Diass (@JhonDiass)
 - Júlio (@dapievejukio)
+  
 
 ## Distribuição de tarefas (a escolher pelo grupo)
 As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
@@ -33,10 +35,12 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 
 ### Análise Descritiva (compreender o cenário)
 - Qual a distribuição etária e racial das vítimas?
-- Como é a distribuição entre estados?
+- Qual a distribuição de obitos
   - estado com maior índice por população;
   - estado com menor índice por população.
-- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e quem são os principais agressores?
+- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e qual perfil do autor das agreções?
+- Quais são os locais da ocorrencia? (casa, via publica ou outros)
+- Vitma registrou algum tipo de ocorrencia?
 - Existem padrões sazonais (aumento em meses específicos, fins de semana)?
 
 ### Análise Preditiva (antecipar riscos)
