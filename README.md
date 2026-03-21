@@ -76,10 +76,10 @@ O dashboard será construído no Streamlit para permitir visualização rápida 
 
 ### KPIs/Indicadores 
 	•	Total de registros (casos)
-	•	Casos por período (ano/mês, se existir no dataset)
-	•	Casos por UF/município (se existir)
-	•	Distribuição por faixa etária (se existir)
-	•	Distribuição por local do crime (se existir)
+	•	Casos por período (ano/mês)
+	•	Casos por UF/município
+	•	Distribuição por faixa etária
+	•	Distribuição por local do crime
 	•	Top 5 categorias mais frequentes (ex.: meio, contexto, relação — conforme colunas do dataset)
 
 ### Visualizações previstas 
@@ -89,9 +89,9 @@ O dashboard será construído no Streamlit para permitir visualização rápida 
 	•	Tabela: Top N (UFs/municípios/categorias) com contagem
 
 ### Filtros previstos (dependem do dataset)
-	•	Período (ano/mês) se aplicável
-	•	UF/município se aplicável
-	•	Faixa etária se aplicável
+	•	Período (ano/mês)
+	•	UF/município
+	•	Faixa etária
 	•	Categoria/Tipo / conforme colunas
 
 ## Estrutura do repositório
