@@ -9,21 +9,21 @@ Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visuali
 - Caio Luna (@caioluna)
 - Danubio Souza (@Danubio229)
 - Franciane Giselle (@itgiselle)
-- Glauco Campos (turistech)
+- Glauco Campos (@turistech)
 - Hugo Miguel (@hugomfrosa)
 - Jhon Diass (@JhonDiass)
 - Júlio (@dapievejukio)
   
 
 ## Distribuição de tarefas (a escolher pelo grupo)
-As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
+As funções abaixo serão escolhidas pelos integrantes, para fechar a Etapa 1:
 
 - **Função A — Base Kaggle:** escolher dataset, link, contexto e justificativa. (Responsável: Jhon Diass / @JhonDiass)
-- **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros. (Responsável: Caio Luna @caioluna)
+- **Função B — KPIs e perguntas:** definir perguntas do dashboard + 5–8 indicadores + filtros. (Responsáveis: Caio Luna @caioluna, Glauco Campos @turistech)
 - **Função C — Planejamento ETL:** descrever extração → transformações (Pandas) → carga (CSV/SQLite). (responsável: Franciane Giselle @itgiselle)
 - **Função D — Ideia do dashboard:** layout (cards + gráficos + tabela) e visualizações.
 - **Função E — Revisão final README + cronograma:** consolidar tudo e revisar coerência.
-- **Função F — Repo/organização:** manter estrutura, commits e ajustes no GitHub (Responsável inicial: Júlio / @dapievejukio
+- **Função F — Repositório/organização:** manter estrutura, commits e ajustes no GitHub (Responsável inicial: Júlio / @dapievejukio
 
 ## Base de dados (Kaggle)
 - **Dataset:** Flor de Aço: Dados contra o Feminicídio 
@@ -35,12 +35,12 @@ As funções abaixo serão escolhidas pelos integrantes , para fechar a Etapa 1:
 
 ### Análise Descritiva (compreender o cenário)
 - Qual a distribuição etária e racial das vítimas?
-- Qual a distribuição de obitos
-  - estado com maior índice por população;
-  - estado com menor índice por população.
-- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e qual perfil do autor das agreções?
-- Quais são os locais da ocorrencia? (casa, via publica ou outros)
-- Vitma registrou algum tipo de ocorrencia?
+- Qual a distribuição de óbitos:
+  - estado com maior índice/população;
+  - estado com menor índice/população.
+- Qual o tipo de violência (psicológica, física, sexual) mais declarado pelas mulheres, e qual perfil do autor das agressões?
+- Quais são os locais da ocorrência? (casa, via pública, outros, etc)
+- Vítima registrou ocorrencia?
 - Existem padrões sazonais (aumento em meses específicos, fins de semana)?
 
 ### Análise Preditiva (antecipar riscos)
