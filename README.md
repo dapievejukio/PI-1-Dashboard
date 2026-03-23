@@ -118,3 +118,4 @@ O dashboard será construído no Streamlit para permitir visualização rápida 
 - **Semana 1:** criar repositório/estrutura + escolher dataset Kaggle + definir objetivo e perguntas
 - **Semana 2:** planejar ETL + definir KPIs e filtros + rascunhar visualizações do dashboard
 - **Semana 3:** revisar README + garantir coerência (dataset ↔ ETL ↔ KPIs ↔ dashboard) + preparar entrega do link do repositório
+  
