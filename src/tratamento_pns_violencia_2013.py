@@ -18,4 +18,4 @@ pns_violencia['Faixa Etária'] = pd.cut(
     labels = ['18-29', '30-39', '40-49', '50-59', '60+']
 )
 
-pns_violencia.to_csv(arquivo_processed, index_label=False)
+pns_violencia.to_csv(arquivo_processed, index_label=False, encoding='utf-8-sig', sep=';')

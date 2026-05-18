@@ -50,5 +50,6 @@ def cnvt_mun_para_est(cod_mun):
 serie_historica['ESTADO_RESID'] = serie_historica['COD_MUNICIPIO_RESID'].apply(cnvt_mun_para_est)
 serie_historica['ESTADO_OBITO'] = serie_historica['COD_MUNICIPIO_OBITO'].apply(cnvt_mun_para_est)
 
+serie_historica['ANO_OBITO'] = serie_historica['DT_OBITO'].astype(str).str[:4]
 
-serie_historica.to_csv(arquivo_processed, index=False)
+serie_historica.to_csv(arquivo_processed, index=False, encoding='utf-8-sig', sep=';')
