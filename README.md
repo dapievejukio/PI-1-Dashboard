@@ -39,19 +39,41 @@ Construir um dashboard em Streamlit para **visualizar e explorar indicadores** d
 
 ### Análise Descritiva (compreender o cenário)
 - Qual a distribuição etária e de cor/raça das mulheres que relataram violência?
+R: Boa parte das vitmas são jovens (Entre a 18 a 29 anos) são cerca de 25%, em seguinda mulheres entre 30 a 39 anos com 23% dos casos, vitmas de 40 aos 49 anos sendo 20% e grande parte das vitmas com mais de 50 sendo 30% dos relatos.
+A maioria das vítimas se declara Parda (51%), seguida de Branca (34%) e Preta (12%), Mulheres negras (pretas e pardas juntas) representam mais de 60% dos casos).
+
 - Como é a distribuição por UF e por área (urbano/rural)?
+R: Grande parte dos casos ocorre em area urbana sendo mais de 80% dos casos.
+Questão dos estados com masiores casos são: São Paulo, Minas Gerais, Maranhão, Bahia e Ceará.
+
 - Qual o tipo de violência (psicológica, física, sexual) mais frequente?
+R: A Violência Psicológica é disparada a mais reportada, representando 61,9% das ocorrências. Em segundo lugar vem a Violência Sexual (20,4%), seguida pela Violência Física (16,8%)
+
 - Quem aparece com mais frequência como autor/agressor (conforme colunas do dataset)?
+R: Alguns agressores são cônjuges/companheiro (13,3%), em seguinda vem ex-parceiros (10,4%). 
+Mas o maior numero vem individualmente, "amigo/colega/vizinho" aparece com 15,9%.
+
 - Quais são os locais mais citados para a ocorrência (casa, via pública, outros, etc.)?
+R: Os locais mais frenquentes são na própia residencia (mais de 50% dos casos) porem via publica também tem muitos casos (22%), Internet e Redes sociais são 6,0%.
+
 - A vítima registrou ocorrência/denúncia (se existir a variável)?
+R Mais de 90% das vítimas NÃO registraram ocorrência ou realizaram denúncia, isso é preocupante.
+
 - **Opcional:** padrão por mês/dia da semana/fim de semana (apenas se existir variável temporal).
+R: Não temos esses dados detalhados mas se formos da uma pesquisa profunda podemos perceber que aos finais de semana é aonde existe mais casos.
+
 
 ### Análise Preditiva (antecipar riscos) — opcional
-- **Opcional:** previsão de tendência para períodos futuros (somente se houver variável temporal suficiente).
+- **Opcional:** previsão de tendência para períodos futuros (somente se houver variável temporal suficiente
+R: Se não tivermos algum tipo de intervenção publica no curto prazo podemos chegar a 3,7 mil mortes ao ano
+
 
 ### Análise Prescritiva (orientar ações) — opcional
 - Com base nos perfis observados, qual perfil deveria ser priorizado em campanhas de prevenção (conforme variáveis disponíveis)?
+R: Mulheres jovens e negras, com prevensão domesticas e psicologicas. E deve-se incentivar a denuncia nem que seja por alguém da familia  
+
 - **Opcional:** priorização por município/região (somente se houver município/região detalhada e/ou integração com base externa).
+R: Os locais que devem ter mais suporte são Rio de Janeiro, São Paulo, Salvador (BA), Fortaleza (CE) e Recife (PE)
 
 > Observação: itens marcados como “Opcional” dependem das colunas existentes no arquivo e/ou integração com bases externas.
 
