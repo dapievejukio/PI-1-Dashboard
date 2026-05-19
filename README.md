@@ -1,6 +1,9 @@
 # Projeto Integrador - Low Code em Ciência de Dados  
 ### (Grupo 46)
 
+## Link do Streamlit Cloud
+https://pi-1-dashboard-cpgenc5xqni85mhgud9mcm.streamlit.app/
+
 ## Tema do projeto
 Dashboard interativo com dados do Kaggle, com pipeline de ETL (Pandas) e visualização em Streamlit.
 
